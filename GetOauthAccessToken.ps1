@@ -4,8 +4,8 @@
 
 #These variables will store the application key and secret key given 
 #to a user when he/she makes  an application on the developer blackboard site.
-$key = "49c89f44-329b-423a-8e88-d1ad7c6fb549"
-$secret = "oqQKQwLkN185GwncD0836O8IFsp532b6"
+$key = "Enter_Application_Key_Here"
+$secret = "Enter_Secret_Key_Here"
 
 
 #The Pre Encoded Credential variable stores the application & secret key before
